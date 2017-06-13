@@ -1,0 +1,4 @@
+#!/bin/bash
+clear
+g++  -Werror my_array.cpp my_array_test.cpp 
+./a.out

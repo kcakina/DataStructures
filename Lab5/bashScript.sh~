@@ -1,0 +1,4 @@
+#!/bin/bash   
+clear
+g++ -Werror test.cpp tree.cpp
+./a.out

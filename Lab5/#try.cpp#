@@ -1,0 +1,26 @@
+#include <iostream>
+#include <string>
+
+using namespace std;
+
+struct node{
+
+  int val;
+  
+  
+}
+  
+
+
+void test();
+
+
+int main(){
+
+  return 0;
+}
+
+void test(){
+
+  
+}
